@@ -1,5 +1,4 @@
 # Tesla & Amazon Financial Analysis
-![Dashboard](images/Tesla Dashboard.png)
 
 ## Project Overview
 
